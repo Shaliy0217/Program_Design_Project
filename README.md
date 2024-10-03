@@ -7,9 +7,9 @@
 額外新增功能：無敵星星、噴火、自定義按鍵設定、開頭小動畫  
 詳細介紹：https://hackmd.io/@shaliy0217/HyJFiIRXq  
 開始遊戲畫面：  
-![anime](https://github.com/user-attachments/assets/c4c39a2e-2b8e-4439-a7a2-01c6793bb5f9)
+![anime](https://github.com/user-attachments/assets/c4c39a2e-2b8e-4439-a7a2-01c6793bb5f9)  
 完整demo：  
-![demo](https://github.com/user-attachments/assets/ccf544c1-edf9-4117-8858-027402a7f37a)
+![demo](https://github.com/user-attachments/assets/ccf544c1-edf9-4117-8858-027402a7f37a)  
 
 ## 俄羅斯方塊
 透過 gotoxy 函式，更新畫面特定位置，避免刷新時畫面閃動  
